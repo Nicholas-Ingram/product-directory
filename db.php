@@ -37,6 +37,7 @@ function getMany($query, array $binds = [])
     return $results;
 }
 
+// This function will insert html code for the category tables
 function displayTable($items, $index, $divClass = "tab-pane fade")
 { ?>
     <div class="<?= $divClass ?>" id="list-cat<?= $index ?>" role="tabpane">
