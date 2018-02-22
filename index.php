@@ -18,8 +18,8 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 </head>
 <body>
-    <div class="container" style="height:100vh;">
-        <div class="row align-items-center" style="height:70%;">
+    <div class="container">
+        <div class="row align-items-center">
             <div class="col-sm-1"></div>
             <div class="col-sm-10">
                 <div class="card">
